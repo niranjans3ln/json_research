@@ -1,0 +1,57 @@
+{
+	"customerId": "1100013227",
+	"customerCategory": "0001",
+	"personalDetails": {
+		"salutation": "0002",
+		"firstName": "Shailesh",
+		"middleName": "",
+		"lastName": "Patwardhan",
+		"dateOfBirth": "1990-02-27",
+		"gender": "2",
+		"nationality": "IN",
+		"passportNo": "",
+		"visaNo": "",
+		"visaValidityDate": "",
+		"maritalStatus": "1",
+		"anniversaryDate": "",
+		"occupation": "0003",
+		"occupationDescription": "",
+		"preferredLanguage": "",
+		"preferredCommunicationChannel": "INT",
+		"photoURL": "",
+		"panNumber": "SWADC4324H",
+		"aadhaarNumber": "2123212345657",
+		"isBlacklisted": "",
+		"customerSegment": "",
+		"blacklistingReason": "",
+		"roles": ["CRM000"],
+		"familyContactDetails": {
+			"firstName": "swsdde",
+			"middleName": "",
+			"lastName": "fdsss",
+			"formattedName": "swsdde",
+			"relationship": "0001"
+		},
+		"contactDetails": {
+			"mobileNumber": "98203186919820318691",
+			"alternateContactNumberHome": "98203186919820318691",
+			"alternateContactNumberWork": "",
+			"emailId": "shailesh.patwardhan@ril.com"
+		},
+		"permanentAddress": {
+			"addressId": "",
+			"addressType": "PER_ADD",
+			"buildingId": "",
+			"houseNameORNumber": "32",
+			"buildingNameORNumber": "TC23- C Block",
+			"streetNameORNumber": "street",
+			"landmark": "",
+			"areaORTehsil": "",
+			"pincode": "765678",
+			"villageORCity": "",
+			"district": "",
+			"state": "MH",
+			"typeOfHouse": "RENTED"
+		}
+	}
+}
